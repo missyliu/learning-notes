@@ -1,0 +1,30 @@
+{
+    "title": "我的学习笔记",
+    "author": "MissyLiu",
+    "description": "",
+    "language": "zh-hans",
+    "gitbook": "3.2.3",
+    "structure": {
+        "readme": "Introduction.md"
+    },
+    "plugins": [
+        "-lunr", "-search", "search-pro",
+        "-sharing",
+        "github",
+        "hide-element",
+        "expandable-chapters",
+        "splitter",
+        "anchor-navigation-ex",
+        "back-to-top-button",
+        "prism", "-highlight",
+        "lightbox"
+    ],
+    "pluginsConfig": {
+        "github": {
+            "url": "https://missyliu.github.io/"
+        },
+        "hide-element": {
+            "elements": [".gitbook-link"]
+        }
+    }
+}
