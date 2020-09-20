@@ -1,4 +1,4 @@
-# 入门系列2 - Chrome Extension页面间通信机制
+# 入门系列2 - Chrome Extensions页面间通信机制
 
 扩展工具中 background, popup, content 三大核心页面间关系图如下：
 

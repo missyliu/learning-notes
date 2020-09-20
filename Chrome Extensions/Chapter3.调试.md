@@ -1,4 +1,4 @@
-# 入门系列3 - Chrome Extension的调试
+# 入门系列3 - Chrome Extensions的调试
 
 ## 调试 popup
 浏览器右上角扩展工具icon右击 -> 菜单 -> 审查弹出内容

@@ -1,4 +1,4 @@
-# 入门系列1 - Chrome Extension的核心文件
+# 入门系列1 - Chrome Extensions的核心文件
 
 ## 核心文件
 ### ⭐️⭐️⭐️manifest.json
